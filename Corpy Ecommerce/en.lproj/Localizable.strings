@@ -1,0 +1,30 @@
+/* 
+  Localizable.strings
+  Corpy Ecommerce
+
+  Created by Peter Bassem on 10/30/18.
+  Copyright © 2018 corpy. All rights reserved.
+*/
+
+//GENERAL MESSAGES
+"error" = "Error";
+"warning" = "Warning";
+"loginMessageError" = "Enter email and password to continue using this App.";
+"EnterValidEmailAndPasswordToContinue" = "Enter valid email and password to continue.";
+"enterAllFields" = "Enter all fields to continue..";
+
+//LoginViewController
+"loginToYourAccountLabel" = "Login to your account";
+"emailTextField" = "Email";
+"passwordTextField" = "Password";
+"rememberMeLabel" = "Remember Me?";
+"forgotPasswordLabel" = "FORGOT PASSWORD?";
+"loginButton" = "Login";
+"dontHaveAccountLabel" = "Don't have an Account?";
+"signUpLabel" = "Sign Up";
+"orLabel" = "OR";
+"firstNameTextField" = "First Name";
+"lastNameTextField" = "Last Name";
+"confirmPasswordTextField" = "Confirm Password";
+"createAccountButton" = "Create Account";
+"passwordNotMatch" = "Password and Confirm Password don't match \nPlease Enter them again.";

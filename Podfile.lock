@@ -1,0 +1,63 @@
+PODS:
+  - AACarousel (1.1.1)
+  - Alamofire (4.7.3)
+  - Bolts (1.9.0):
+    - Bolts/AppLinks (= 1.9.0)
+    - Bolts/Tasks (= 1.9.0)
+  - Bolts/AppLinks (1.9.0):
+    - Bolts/Tasks
+  - Bolts/Tasks (1.9.0)
+  - FBSDKCoreKit (4.38.0):
+    - Bolts (~> 1.9)
+  - FBSDKLoginKit (4.38.0):
+    - FBSDKCoreKit
+  - IQKeyboardManagerSwift (6.2.0)
+  - NVActivityIndicatorView (4.4.0):
+    - NVActivityIndicatorView/Presenter (= 4.4.0)
+  - NVActivityIndicatorView/Presenter (4.4.0)
+  - SkyFloatingLabelTextField (3.6.0)
+  - SWSegmentedControl (2.6.1)
+  - Toast-Swift (3.0.1)
+  - UICheckbox.Swift (1.0.0)
+
+DEPENDENCIES:
+  - AACarousel
+  - Alamofire
+  - FBSDKLoginKit
+  - IQKeyboardManagerSwift
+  - NVActivityIndicatorView
+  - SkyFloatingLabelTextField
+  - SWSegmentedControl
+  - Toast-Swift (~> 3.0.1)
+  - UICheckbox.Swift
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - AACarousel
+    - Alamofire
+    - Bolts
+    - FBSDKCoreKit
+    - FBSDKLoginKit
+    - IQKeyboardManagerSwift
+    - NVActivityIndicatorView
+    - SkyFloatingLabelTextField
+    - SWSegmentedControl
+    - Toast-Swift
+    - UICheckbox.Swift
+
+SPEC CHECKSUMS:
+  AACarousel: e0dbd2d3153c56c36df8aa282553f20fc88e132b
+  Alamofire: c7287b6e5d7da964a70935e5db17046b7fde6568
+  Bolts: ac6567323eac61e203f6a9763667d0f711be34c8
+  FBSDKCoreKit: 2ab7fdbf600dc6b628ba7a49aa29d357a7b4c74e
+  FBSDKLoginKit: 634fa27e72e33620eb6389253337342c03d4a407
+  IQKeyboardManagerSwift: b07ccf9d8cafe993dcd6cb794eb4ba34611a0c4e
+  NVActivityIndicatorView: ec7440a57af2450319d3a4181cca7da6fc127064
+  SkyFloatingLabelTextField: 38164979b79512f9ff9288ad8acfc4bbf5d843e3
+  SWSegmentedControl: 5770c91bb4b438be300371221e38f4af5100bba2
+  Toast-Swift: ba0b01b095aada709d915f9beb1d38184a2721c3
+  UICheckbox.Swift: 85715689206fac5bae38b308f19c2a3e00442c3b
+
+PODFILE CHECKSUM: 6a8c112740d597308e91e404f45020fdf3f28b3d
+
+COCOAPODS: 1.5.3
